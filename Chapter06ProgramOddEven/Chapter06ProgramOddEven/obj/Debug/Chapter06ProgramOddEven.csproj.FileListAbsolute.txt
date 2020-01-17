@@ -1,0 +1,9 @@
+C:\01ALP\Chapter06ProgramOddEven\Chapter06ProgramOddEven\obj\Debug\Chapter06ProgramOddEven.csprojAssemblyReference.cache
+C:\01ALP\Chapter06ProgramOddEven\Chapter06ProgramOddEven\obj\Debug\Chapter06ProgramOddEven.Form1.resources
+C:\01ALP\Chapter06ProgramOddEven\Chapter06ProgramOddEven\obj\Debug\Chapter06ProgramOddEven.Properties.Resources.resources
+C:\01ALP\Chapter06ProgramOddEven\Chapter06ProgramOddEven\obj\Debug\Chapter06ProgramOddEven.csproj.GenerateResource.cache
+C:\01ALP\Chapter06ProgramOddEven\Chapter06ProgramOddEven\bin\Debug\Chapter06ProgramOddEven.exe.config
+C:\01ALP\Chapter06ProgramOddEven\Chapter06ProgramOddEven\bin\Debug\Chapter06ProgramOddEven.exe
+C:\01ALP\Chapter06ProgramOddEven\Chapter06ProgramOddEven\bin\Debug\Chapter06ProgramOddEven.pdb
+C:\01ALP\Chapter06ProgramOddEven\Chapter06ProgramOddEven\obj\Debug\Chapter06ProgramOddEven.exe
+C:\01ALP\Chapter06ProgramOddEven\Chapter06ProgramOddEven\obj\Debug\Chapter06ProgramOddEven.pdb
